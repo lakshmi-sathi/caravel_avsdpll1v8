@@ -13,7 +13,7 @@
  | ENb_CP | CP Enable', PLL/VCO Mode Select | wb_sel_i[1] |
  | VDD | Power Supply | VCCD1 |
  | GND | Ground | VSSD1 |
- | VCO_IN | VCO Direct Input | analog_io[0] |
+ | VCO_IN | VCO Direct Input | analog_io[[0]] |
  | CLK | Clock Output | io_out[37] |
 
 <h3> Method Followed: </h3>
