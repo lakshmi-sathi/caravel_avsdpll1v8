@@ -13,7 +13,7 @@
  | ENb_CP | CP Enable', PLL/VCO Mode Select | wb_sel_i[1] |
  | VDD | Power Supply | VCCD1 |
  | GND | Ground | VSSD1 |
- | VCO_IN | VCO Direct Input | analog_io[0] |
+ | VCO_IN | VCO Direct Input | analog_io[[0]] |
  | CLK | Clock Output | io_out[37] |
 
 <h3> Method Followed: </h3>
@@ -37,21 +37,15 @@
 `export PDK_ROOT=<same_location_as_before>` <br>
 `make`
 
-<h3> PLL placed and routed in User Project Wrapper </h3>
-
-![](Images/PLLonwrapper.jpg)
--> PLL on the left and on the right the third order loop filter
 
 <h3> PLL in Caravel </h3>
 
-![](Images/PLL_in_caravel.jpg)
-![](Images/PLL_Caravel2.jpg)
-![](Images/PLL_on_Caravel.jpg)
+![](Images/PLLincaravel.jpg)
 
+<h4> PLL and Opamp integrated Caravel SoC </h4>
 
-<h4> PLL integrated Caravel SoC </h4>
+![](Images/Caravel.jpg)
 
-![](Images/PLL_Integrated_Caravel.jpg)
 
 
 # CIIC Harness  
