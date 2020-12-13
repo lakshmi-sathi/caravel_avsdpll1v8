@@ -37,17 +37,10 @@
 `export PDK_ROOT=<same_location_as_before>` <br>
 `make`
 
-<h3> PLL placed and routed in User Project Wrapper </h3>
-
-![](Images/PLLonwrapper.jpg)
--> PLL on the left and on the right the third order loop filter
 
 <h3> PLL in Caravel </h3>
 
-![](Images/PLL_in_caravel.jpg)
-![](Images/PLL_Caravel2.jpg)
-![](Images/PLL_on_Caravel.jpg)
-
+![](Images/PLLincaravel.jpg)
 
 <h4> PLL integrated Caravel SoC </h4>
 
