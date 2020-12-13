@@ -42,9 +42,9 @@
 
 ![](Images/PLLincaravel.jpg)
 
-<h4> PLL integrated Caravel SoC </h4>
+<h4> PLL and Opamp integrated Caravel SoC </h4>
 
-![](Images/PLL_Integrated_Caravel.jpg)
+![](Images/Caravel.jpg)
 
 
 # CIIC Harness  
