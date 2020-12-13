@@ -47,6 +47,7 @@
 ![](Images/Caravel.jpg)
 
 
+
 # CIIC Harness  
 
 A template SoC for Google SKY130 free shuttles. It is still WIP. The current SoC architecture is given below.
