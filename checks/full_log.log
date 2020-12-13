@@ -1,0 +1,15 @@
+FULL RUN LOG:
+ Uncompressing the gds files
+Step 0 done without fatal errors.
+ Executing Step 1 of 1: Checking DRC Violations.
+ Running DRC Checks...
+Violation Message "Metal4 > 3um spacing to unrelated m4 < 0.4um (met4.5b) "found 15 Times.
+Violation Message "Metal3 > 3um spacing to unrelated m3 < 0.4um (met3.3d) "found 12 Times.
+Violation Message "Can't overlap those layers "found 7 Times.
+Violation Message "Min area of metal2 holes > 0.14um^2 (met2.7) "found 22 Times.
+Violation Message "Metal3 spacing < 0.3um (met3.2) "found 52 Times.
+Violation Message "Metal3 width < 0.3um (met3.1) "found 3 Times.
+Violation Message "Metal2 > 3um spacing to unrelated m2 < 0.28um (met2.3b) "found 26 Times.
+Violation Message "Metal1 > 3um spacing to unrelated m1 < 0.28um (met1.3b) "found 21 Times.
+ DRC Checks on MAG Failed, Reason: Total # of DRC violations is 158
+TEST FAILED AT STEP 1

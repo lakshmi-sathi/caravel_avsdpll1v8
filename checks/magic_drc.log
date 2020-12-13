@@ -1,0 +1,61 @@
+
+Magic 8.3 revision 92 - Compiled on Wed Dec  9 14:33:33 UTC 2020.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+Sourcing design .magicrc for technology sky130A ...
+2 Magic internal units = 1 Lambda
+Input style sky130: scaleFactor=2, multiplier=2
+Scaled tech values by 2 / 1 to match internal grid scaling
+Loading sky130A Device Generator Menu ...
+Loading "/usr/local/bin/drc_checks/magic_drc_check.tcl" from command line.
+caravel: 10000 rects
+caravel: 20000 rects
+caravel: 30000 rects
+caravel: 40000 rects
+caravel: 50000 rects
+caravel: 60000 rects
+caravel: 70000 rects
+caravel: 80000 rects
+[INFO]: Loading caravel
+
+Warning: Calma reading is not undoable!  I hope that's OK.
+Library written using GDS-II Release 3.0
+Library name: user_project_wrapper
+Reading "via_li_m1".
+Reading "sky130_fd_pr__pfet_01v8_YT7TV5".
+Reading "sky130_fd_pr__pfet_01v8_YC9MKB".
+Reading "via_m3_m4".
+Reading "sky130_fd_pr__cap_mim_m3_1_BLS9H9".
+Reading "sky130_fd_pr__pfet_01v8_YCMRKB".
+Reading "sky130_fd_pr__nfet_01v8_8JUMX6".
+Reading "sky130_fd_pr__nfet_01v8_8HUREQ".
+Reading "sky130_fd_pr__nfet_01v8_GQFJAV".
+Reading "via_sub_m1".
+Reading "opamp_v1".
+CIF file read warning: CIF style sky130: units rescaled by factor of 5 / 1
+Reading "Cap_295fF".
+Reading "Cap_300fF".
+Reading "ResTrial2".
+Reading "Cap_305fF".
+Reading "PFD".
+Reading "CP".
+Reading "MUX".
+Reading "/mnt/c/Users/LENOVO/Documents/PLL/Layout/new/FD".
+Reading "VCO".
+Reading "PLL_".
+Reading "user_project_wrapper".
+Warning:  cell user_project_wrapper already existed before reading GDS!
+Using pre-existing cell definition
+Scaled magic input cell user_project_wrapper geometry by factor of 2
+Processing timestamp mismatches: user_project_wrapper.
+chip_io: 10000 rects
+Processing timestamp mismatches: chip_io, mgmt_protect, user_id_programming, storage, mgmt_core, sky130_fd_sc_hvl__lsbufhv2lv_1_wrapped, simple_por, gpio_control_block.
+DRC style is now "drc(full)"
+Loading DRC CIF style.
+[INFO]: COUNT: 142
+[INFO]: Should be divided by 3 or 4
+[INFO]: DRC Checking DONE (/mnt/c/Users/LENOVO/Documents/PLL/upload/caravel//checks/caravel.magic.drc)
+[INFO]: Saving mag view with DRC errors(/mnt/c/Users/LENOVO/Documents/PLL/upload/caravel//checks/caravel.magic.drc.mag)
+[INFO]: Saved
