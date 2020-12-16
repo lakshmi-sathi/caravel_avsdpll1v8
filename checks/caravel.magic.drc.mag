@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1607857346
+timestamp 1608071769
 << checkpaint >>
 rect -3932 -3932 721532 1041532
 << metal1 >>
@@ -81790,11 +81790,11 @@ timestamp 1606790298
 transform -1 0 708537 0 1 927600
 box 38 0 33934 18344
 use chip_io  padframe ../maglef
-timestamp 1606942589
+timestamp 1607997393
 transform 1 0 0 0 1 0
 box 0 0 717600 1037600
 use user_project_wrapper  mprj
-timestamp 1607857346
+timestamp 1608071769
 transform 1 0 65277 0 1 276402
 box -8576 -7506 592500 711442
 << properties >>
