@@ -5,63 +5,30 @@ Step 0 done without fatal errors.
 {{LICENSE COMPLIANCE PASSED}} Apache-2.0 LICENSE file was found in project root
  No third party libraries found.
 Step 1 done without fatal errors.
-{{SPDX COMPLIANCE WARNING}} Found 277 non-compliant files with the SPDX Standard. Check full log for more information
-SPDX COMPLIANCE: NON-COMPLIANT FILES PREVIEW: ['/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/.travis.yml', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/info.yaml', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/Makefile', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/mpw-one-a.md', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/.travisCI/runPrecheck.sh', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/.travisCI/travisBuild.sh', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/checks/caravel.magic.drc', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/checks/caravel.magic.rdb', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/checks/full_log.log', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/checks/magic_drc.log', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/checks/manifest_check.log', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/checks/spdx_compliance_report.log', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/doc/caravel_datasheet.ps', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/gds/gds2mag-all.sh', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/gds/gen_caravel.tcl', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/mag/.gitignore', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/mag/.magicrc', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/mag/bump_bond.tcl', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/mag/comp.out', '/mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8/mag/dot.magicrc.dist']
+{{SPDX COMPLIANCE WARNING}} Found 102 non-compliant files with the SPDX Standard. Check full log for more information
+SPDX COMPLIANCE: NON-COMPLIANT FILES PREVIEW: ['/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/info.yaml', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/mpw-one-b.md', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/README.md', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/caravel.magic.drc', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/caravel.magic.namelist', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/caravel.magic.rdb', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/caravel.magic.typelist', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/full_log.log', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/magic_drc.log', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/magic_extract.log', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/manifest_check.log', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/mprj.magic.namelist', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/mprj.magic.typelist', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/spdx_compliance_report.log', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/doc/caravel_datasheet.ps', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/doc/README.md', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/gds/.gitignore', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/macros/README.md', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/mag/.gitignore', '/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/mag/.magicrc']
  Executing Step 2 of 4: Checking YAML description.
  YAML file valid!
 Step 2 done without fatal errors.
  Executing Step 3 of 4: Executing Fuzzy Consistency Checks.
-b'Going into /mnt/c/Users/LENOVO/Documents/PLL/test/caravel_avsdpll1v8//verilog/rtl/'
+b'Going into /mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/verilog/rtl/'
 b'Removing manifest'
 b'Fetching manifest'
 b'Running sha1sum checks'
- Manifest Checks Failed. Please rebase your Repository to the latest Caravel master.
-caravel_clocking.v: FAILED
-caravel.v: FAILED
-chip_io.v: FAILED
-clock_div.v: FAILED
-convert_gpio_sigs.v: FAILED
-counter_timer_high.v: FAILED
-counter_timer_low.v: FAILED
-DFFRAMBB.v: FAILED
-DFFRAM.v: FAILED
-digital_pll_controller.v: FAILED
-digital_pll.v: FAILED
-gpio_control_block.v: FAILED
-gpio_wb.v: FAILED
-housekeeping_spi.v: FAILED
-la_wb.v: FAILED
-mem_wb.v: FAILED
-mgmt_core.v: FAILED
-mgmt_protect_hv.v: FAILED
-mgmt_protect.v: FAILED
-mprj2_logic_high.v: FAILED open or read
-mprj_ctrl.v: FAILED
-mprj_io.v: FAILED
-mprj_logic_high.v: FAILED open or read
-pads.v: FAILED
-ring_osc2x13.v: FAILED
-simple_por.v: FAILED
-simple_spi_master.v: FAILED
-sky130_fd_sc_hvl__lsbufhv2lv_1_wrapped.v: FAILED
-sram_1rw1r_32_256_8_sky130.v: FAILED
-storage_bridge_wb.v: FAILED
-storage.v: FAILED
-sysctrl.v: FAILED
-wb_intercon.v: FAILED
+ Manifest Checks Passed. RTL Version Matches.
  Documentation Checks Passed.
  Makefile Checks Passed.
  Fuzzy Consistency Checks Passed!
 Step 3 done without fatal errors.
  Executing Step 4 of 4: Checking DRC Violations.
  Running DRC Checks...
-Violation Message "Metal4 > 3um spacing to unrelated m4 < 0.4um (met4.5b) "found 15 Times.
-Violation Message "Metal3 > 3um spacing to unrelated m3 < 0.4um (met3.3d) "found 12 Times.
-Violation Message "Can't overlap those layers "found 7 Times.
+Violation Message "Metal4 > 3um spacing to unrelated m4 < 0.4um (met4.5b) "found 8 Times.
+Violation Message "Metal3 > 3um spacing to unrelated m3 < 0.4um (met3.3d) "found 4 Times.
+Violation Message "Can't overlap those layers "found 4 Times.
 Violation Message "Min area of metal2 holes > 0.14um^2 (met2.7) "found 22 Times.
-Violation Message "Metal3 spacing < 0.3um (met3.2) "found 52 Times.
+Violation Message "Metal3 spacing < 0.3um (met3.2) "found 8 Times.
 Violation Message "Metal3 width < 0.3um (met3.1) "found 3 Times.
-Violation Message "Metal2 > 3um spacing to unrelated m2 < 0.28um (met2.3b) "found 26 Times.
-Violation Message "Metal1 > 3um spacing to unrelated m1 < 0.28um (met1.3b) "found 21 Times.
- DRC Checks on MAG Failed, Reason: Total # of DRC violations is 158
+Violation Message "Metal1 > 3um spacing to unrelated m1 < 0.28um (met1.3b) "found 19 Times.
+Violation Message "Metal2 > 3um spacing to unrelated m2 < 0.28um (met2.3b) "found 23 Times.
+ DRC Checks on MAG Failed, Reason: Total # of DRC violations is 91
 TEST FAILED AT STEP 4
