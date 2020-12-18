@@ -44,7 +44,7 @@
 
 <h4> PLL and Opamp integrated Caravel SoC </h4>
 
-![](Images/Caravel.jpg)
+![](Images/caravel48.jpg)
 
 
 
