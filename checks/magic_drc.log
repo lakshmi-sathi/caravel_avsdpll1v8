@@ -327,6 +327,6 @@ DRC style is now "drc(full)"
 Loading DRC CIF style.
 [INFO]: COUNT: 75
 [INFO]: Should be divided by 3 or 4
-[INFO]: DRC Checking DONE (/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/caravel.magic.drc)
-[INFO]: Saving mag view with DRC errors(/mnt/c/Users/LENOVO/Documents/PLL/latest_b/caravel/checks/caravel.magic.drc.mag)
+[INFO]: DRC Checking DONE (/mnt/c/Users/LENOVO/Documents/PLL/latest_b_fix/caravel//checks/caravel.magic.drc)
+[INFO]: Saving mag view with DRC errors(/mnt/c/Users/LENOVO/Documents/PLL/latest_b_fix/caravel//checks/caravel.magic.drc.mag)
 [INFO]: Saved
