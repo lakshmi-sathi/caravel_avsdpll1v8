@@ -46,7 +46,7 @@
 
 ![](Images/latest_b_fix_caravel24.jpg)
 
-![](Images/latest_b_fix_75vio.jpg)
+![](Images/latest_b_fix_75_vio.jpg)
 
 
 
