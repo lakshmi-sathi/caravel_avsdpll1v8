@@ -2,7 +2,7 @@ $caravel
  100
 r_0_met4.5b
 500 500 2 Nov 29 03:26:39 2020
-Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/latest_b_fix/caravel//checks/caravel.magic.drc
+Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/test3/caravel/checks/caravel.magic.drc
 met4.5b: Metal4 > 3um spacing to unrelated m4 < 0.4um 
 p 1 4
 200000 123400
@@ -36,7 +36,7 @@ p 6 4
 200000 132300
 r_0_met3.3d
 500 500 2 Nov 29 03:26:39 2020
-Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/latest_b_fix/caravel//checks/caravel.magic.drc
+Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/test3/caravel/checks/caravel.magic.drc
 met3.3d: Metal3 > 3um spacing to unrelated m3 < 0.4um 
 p 1 4
 70900 19900
@@ -50,7 +50,7 @@ p 2 4
 70900 19900
 r_0_UnknownRul
 500 500 2 Nov 29 03:26:39 2020
-Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/latest_b_fix/caravel//checks/caravel.magic.drc
+Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/test3/caravel/checks/caravel.magic.drc
 UnknownRul: ["Can't overlap those layers"]
 p 1 4
 19900 62400
@@ -64,7 +64,7 @@ p 2 4
 19900 62500
 r_0_met2.7
 500 500 2 Nov 29 03:26:39 2020
-Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/latest_b_fix/caravel//checks/caravel.magic.drc
+Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/test3/caravel/checks/caravel.magic.drc
 met2.7: Min area of metal2 holes > 0.14um^2 
 p 1 4
 72700 19600
@@ -168,7 +168,7 @@ p 20 4
 70700 18400
 r_0_met3.2
 500 500 2 Nov 29 03:26:39 2020
-Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/latest_b_fix/caravel//checks/caravel.magic.drc
+Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/test3/caravel/checks/caravel.magic.drc
 met3.2: Metal3 spacing < 0.3um 
 p 1 4
 70900 18900
@@ -202,7 +202,7 @@ p 6 4
 70900 18900
 r_0_met3.1
 500 500 2 Nov 29 03:26:39 2020
-Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/latest_b_fix/caravel//checks/caravel.magic.drc
+Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/test3/caravel/checks/caravel.magic.drc
 met3.1: Metal3 width < 0.3um 
 p 1 4
 70900 18900
@@ -211,7 +211,7 @@ p 1 4
 70900 19000
 r_0_met1.3b
 500 500 2 Nov 29 03:26:39 2020
-Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/latest_b_fix/caravel//checks/caravel.magic.drc
+Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/test3/caravel/checks/caravel.magic.drc
 met1.3b: Metal1 > 3um spacing to unrelated m1 < 0.28um 
 p 1 4
 56800 502800
@@ -300,7 +300,7 @@ p 17 4
 332500 52200
 r_0_met2.3b
 500 500 2 Nov 29 03:26:39 2020
-Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/latest_b_fix/caravel//checks/caravel.magic.drc
+Rule File Pathname: /mnt/c/Users/LENOVO/Documents/PLL/test3/caravel/checks/caravel.magic.drc
 met2.3b: Metal2 > 3um spacing to unrelated m2 < 0.28um 
 p 1 4
 20800 285500
